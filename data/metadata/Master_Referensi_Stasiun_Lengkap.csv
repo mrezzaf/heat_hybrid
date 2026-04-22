@@ -1,0 +1,201 @@
+WMO_ID,NAME,PROPINSI_NAME,KABUPATEN_NAME,CURRENT_LATITUDE,CURRENT_LONGITUDE,CURRENT_ELEVATION_M
+96001,Stasiun Meteorologi Maimun Saleh,Nanggroe Aceh Darussalam,Kota Sabang,5.87655,95.33785,126
+96003,Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah III,Bali,Kab. Badung,-8.7381,115.1786,0
+96009,Stasiun Meteorologi Malikussaleh,Nanggroe Aceh Darussalam,Kab. Aceh Utara,5.22869,96.94749,28
+96011,Stasiun Meteorologi Sultan Iskandar Muda,Nanggroe Aceh Darussalam,Kab. Aceh Besar,5.52244,95.417,20
+96013,Stasiun Geofisika Aceh Besar,Nanggroe Aceh Darussalam,Kab. Aceh Besar,5.496,95.296,32
+96015,Stasiun Meteorologi Cut Nyak Dhien Nagan Raya,Nanggroe Aceh Darussalam,Kab. Nagan Raya,4.04928,96.24796,3
+96017,Stasiun Klimatologi Aceh,Nanggroe Aceh Darussalam,Kab. Aceh Besar,5.404,95.464,40
+96031,Stasiun Klimatologi Sumatera Utara,Sumatera Utara,Kab. Deli Serdang,3.62114,98.71485,25
+96033,Stasiun Meteorologi Maritim Belawan,Sumatera Utara,Kota Medan,3.78824,98.71492,3
+96035,Stasiun Meteorologi Kualanamu,Sumatera Utara,Kab. Deli Serdang,3.64573,98.88488,23
+96037,Stasiun Geofisika Deli Serdang,Sumatera Utara,Kab. Deli Serdang,3.501,98.56,86
+96039,Stasiun Geofisika Aceh Selatan,Nanggroe Aceh Darussalam,Kab. Aceh Selatan,3.17333,97.28637,2
+96041,Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah I,Sumatera Utara,Kota Medan,3.5397,98.64,0
+96043,Stasiun Meteorologi Silangit,Sumatera Utara,Kab. Tapanuli Utara,2.26136,98.99357,1420
+96071,Stasiun Meteorologi Aek Godang,Sumatera Utara,Kab. Padang Lawas Utara,1.55,99.45,281
+96073,Stasiun Meteorologi FL Tobing,Sumatera Utara,Kab. Tapanuli Tengah,1.55,98.88,10
+96075,Stasiun Meteorologi Binaka,Sumatera Utara,Kab. Nias,1.1649,97.7036,7
+96077,Stasiun Geofisika Gunungsitoli,Sumatera Utara,Kab. Nias,1.3,97.58,175
+96087,Stasiun Meteorologi Hang Nadim,Kep. Riau,Kota Batam,1.11667,104.11667,26
+96089,Stasiun Meteorologi Raja Haji Abdullah,Kep. Riau,Kab. Karimun,1.03,103.38,1
+96091,Stasiun Meteorologi Raja Haji Fisabilillah,Kep. Riau,Kota Tanjung Pinang,0.9227,104.5289,15
+96107,Stasiun Klimatologi Riau,Riau,Kab. Kampar,0.407,101.217,15
+96109,Stasiun Meteorologi Sultan Syarif Kasim II,Riau,Kota Pekanbaru,0.45924,101.44743,39
+96145,Stasiun Meteorologi Tarempa,Kep. Riau,Kab. Kepulauan Anambas,3.2,106.25,2
+96147,Stasiun Meteorologi Ranai,Kep. Riau,Kab. Natuna,3.91206,108.39,2
+96161,Stasiun Meteorologi Maritim Teluk Bayur,Sumatera Barat,Kota Padang,-0.99639,100.37222,2
+96163,Stasiun Meteorologi Minangkabau,Sumatera Barat,Kab. Padang Pariaman,-0.79355,100.28917,6
+96165,Stasiun Geofisika Padang Panjang,Sumatera Barat,Kota Padang Panjang,-0.4663,100.3797,735
+96167,Stasiun Klimatologi Sumatera Barat,Sumatera Barat,Kab. Padang Pariaman,-0.54549,100.29786,128
+96169,Stasiun Pemantau Atmosfer Global Bukit Koto Tabang,Sumatera Barat,Kab. Agam,-0.2505,100.3823,895
+96171,Stasiun Meteorologi Japura,Riau,Kab. Indragiri Hulu,-0.33,102.32,19
+96179,Stasiun Meteorologi Dabo,Kep. Riau,Kab. Lingga,-0.48,104.58,29
+96191,Stasiun Klimatologi Jambi,Jambi,Kab. Muaro Jambi,-1.6019,103.48444,24
+96195,Stasiun Meteorologi Sultan Thaha,Jambi,Kota Jambi,-1.63368,103.64,26
+96207,Stasiun Meteorologi Depati Parbo,Jambi,Kab. Kerinci,-2.083,101.45,782
+96221,Stasiun Meteorologi Sultan Mahmud Badaruddin II,Sumatera Selatan,Kota Palembang,-2.89468,104.70129,10
+96223,Stasiun Klimatologi Sumatera Selatan,Sumatera Selatan,Kota Palembang,-2.92732,104.77197,11
+96225,Taman Alat Digital Stasiun Klimatologi Sumsel,Sumatera Selatan,Kota Palembang,3.0156,104.43,4
+96237,Stasiun Meteorologi Depati Amir,Kep. Bangka Belitung,Kota Pangkal Pinang,-2.17,106.13,0
+96239,Stasiun Klimatologi Bangka Belitung,Kep. Bangka Belitung,Kab. Bangka Tengah,-2.518,106.422,6
+96247,Stasiun Geofisika Tanjung Pandan,Kep. Bangka Belitung,Kab. Belitung,-2.7575,107.65,22
+96249,Stasiun Meteorologi H. AS. Hanandjoeddin,Kep. Bangka Belitung,Kab. Belitung,-2.75,107.75,50
+96253,Stasiun Meteorologi Fatmawati Soekarno,Bengkulu,Kota Bengkulu,-3.8582,102.3367,24
+96255,Stasiun Klimatologi Bengkulu,Bengkulu,Kota Bengkulu,-3.8652,102.3119,12
+96257,Stasiun Geofisika Kepahiang,Bengkulu,Kab. Kepahiang,-3.55,102.589,517
+96291,Stasiun Klimatologi Lampung,Lampung,Kab. Pesawaran,-5.17236,105.18,71
+96293,Stasiun Meteorologi Maritim Panjang,Lampung,Kota Bandar Lampung,-5.4721,105.321,7
+96295,Stasiun Meteorologi Radin Inten II,Lampung,Kab. Lampung Selatan,-5.16,105.11,85
+96297,Stasiun Geofisika Lampung Utara,Lampung,Kab. Lampung Utara,-4.83631,104.87,60
+96503,Stasiun Meteorologi Nunukan,Kalimantan Utara,Kab. Nunukan,4.13,117.67,8
+96505,Stasiun Meteorologi Yuvai Semaring,Kalimantan Utara,Kab. Nunukan,3.86,115.68,1090
+96509,Stasiun Meteorologi Juwata,Kalimantan Utara,Kota Tarakan,3.33,117.57,6
+96525,Stasiun Meteorologi Tanjung Harapan,Kalimantan Utara,Kab. Bulungan,2.5,117.22,3
+96529,Stasiun Meteorologi Kalimarau,Kalimantan Timur,Kab. Berau,2.14562,117.43375,13
+96535,Stasiun Meteorologi Paloh,Kalimantan Barat,Kab. Sambas,1.74,109.3,15
+96557,Stasiun Meteorologi Nangapinoh,Kalimantan Barat,Kab. Melawi,-0.42,111.47,40
+96559,Stasiun Meteorologi Tebelian,Kalimantan Barat,Kab. Sintang,0.06,111.47,31
+96565,Stasiun Meteorologi Pangsuma,Kalimantan Barat,Kab. Kapuas Hulu,0.84,112.93,43
+96581,Stasiun Meteorologi Supadio,Kalimantan Barat,Kab. Kubu Raya,-0.14206,109.45,3
+96583,Stasiun Klimatologi Kalimantan Barat,Kalimantan Barat,Kab. Mempawah,0.075,109.19,2
+96585,Stasiun Meteorologi Maritim Pontianak,Kalimantan Barat,Kota Pontianak,-0.03,109.34,4
+96595,Stasiun Meteorologi Beringin,Kalimantan Tengah,Kab. Barito Utara,-0.56,114.53,42
+96607,Stasiun Meteorologi Aji Pangeran Tumenggung Pranoto,Kalimantan Timur,Kota Samarinda,-0.48,117.16,10
+96615,Stasiun Meteorologi Rahadi Oesman,Kalimantan Barat,Kab. Ketapang,-1.8,109.97,9
+96633,Stasiun Meteorologi Sultan Aji Muhammad Sulaiman Sepinggan,Kalimantan Timur,Kota Balikpapan,-1.26,116.9,3
+96635,Stasiun Geofisika Balikpapan,Kalimantan Timur,Kota Balikpapan,-1.2553,116.91463,31
+96645,Stasiun Meteorologi Iskandar,Kalimantan Tengah,Kab. Kotawaringin Barat,-2.73,111.66,22
+96651,Stasiun Meteorologi H. Asan,Kalimantan Tengah,Kab. Kotawaringin Timur,-2.55,112.93,3
+96653,Stasiun Meteorologi Sanggu,Kalimantan Tengah,Kab. Barito Selatan,-1.67,114.9,37
+96655,Stasiun Meteorologi Tjilik Riwut,Kalimantan Tengah,Kota Palangkaraya,-2.22,113.95,27
+96685,Stasiun Meteorologi Syamsudin Noor,Kalimantan Selatan,Kota Banjarmasin,-3.442,114.754,32
+96687,Stasiun Klimatologi Kalimantan Selatan,Kalimantan Selatan,Kota Banjarbaru,-3.46225,114.84,55
+96695,Stasiun Meteorologi Gusti Syamsir Alam,Kalimantan Selatan,Kab. Kotabaru,-3.3,116.17,2
+96733,Stasiun Klimatologi Banten,Banten,Kota Tangerang Selatan,-6.26151,106.75084,27
+96735,Stasiun Geofisika Tangerang,Banten,Kota Tangerang,-6.1,106.38,14
+96737,Stasiun Meteorologi Maritim Serang,Banten,Kota Serang,-6.11185,106.11,100
+96739,Stasiun Meteorologi Budiarto,Banten,Kab. Tangerang,-6.2867,106.56389,42
+96741,Stasiun Meteorologi Maritim Tanjung Priok,DKI Jakarta,Kota Adm. Jakarta Utara,-6.10781,106.88053,3
+96743,Stasiun Geofisika Gorontalo,Gorontalo,Kab. Bone Bolango,0.55588,123.1406,4
+96745,Stasiun Meteorologi Kemayoran,DKI Jakarta,Kota Adm. Jakarta Pusat,-6.15559,106.84,4
+96747,Halim Perdana Kusuma Jakarta,DKI Jakarta,Kota Adm. Jakarta Timur,-6.27036,106.88926,28
+96749,Stasiun Meteorologi Soekarno Hatta,Banten,Kota Tangerang,-6.12,106.65,11
+96751,Stasiun Meteorologi Citeko,Jawa Barat,Kab. Bogor,-6.7,106.85,920
+96753,Stasiun Klimatologi Jawa Barat,Jawa Barat,Kota Bogor,-6.5,106.75,207
+96783,Stasiun Geofisika Bandung,Jawa Barat,Kota Bandung,-6.88356,107.59733,791
+96791,Stasiun Meteorologi Kertajati,Jawa Barat,Kab. Majalengka,-6.7344,108.263,85
+96793,Pos Meteorologi Penggung,Jawa Barat,Kab. Cirebon,-6.7553,108.53904,23
+96797,Stasiun Meteorologi Maritim Tegal,Jawa Tengah,Kab. Tegal,-6.86817,109.12103,1
+96805,Stasiun Meteorologi Tunggul Wulung,Jawa Tengah,Kab. Cilacap,-7.7189,109.0149,8
+96807,Stasiun Geofisika Banjarnegara,Jawa Tengah,Kab. Banjarnegara,-7.333,109.7069,608
+96835,Stasiun Klimatologi Jawa Tengah,Jawa Tengah,Kota Semarang,-6.9847,110.3812,6
+96837,Stasiun Meteorologi Maritim Tanjung Emas,Jawa Tengah,Kota Semarang,-6.9486,110.4199,2
+96839,Stasiun Meteorologi Ahmad Yani,Jawa Tengah,Kota Semarang,-6.97683,110.3778,5
+96851,Stasiun Klimatologi DI Yogyakarta,DI Yogyakarta,Kab. Sleman,-7.731,110.354,182
+96855,Stasiun Geofisika Sleman,DI Yogyakarta,Kab. Sleman,-7.82,110.3,153
+96859,Stasiun Meteorologi Yogyakarta,DI Yogyakarta,Kab. Kulon Progo,-7.90746,110.05448,7
+96925,Stasiun Meteorologi Sangkapura,Jawa Timur,Kab. Gresik,-5.8511,112.6578,3
+96929,Stasiun Meteorologi Dhoho,Jawa Timur,Kab. Kediri,-7.75487,111.9469,94
+96933,Stasiun Meteorologi Perak I,Jawa Timur,Kota Surabaya,-7.2236,112.7239,3
+96935,Stasiun Meteorologi Juanda,Jawa Timur,Kab. Sidoarjo,-7.3846,112.7833,3
+96937,Stasiun Meteorologi Maritim Tanjung Perak,Jawa Timur,Kota Surabaya,-7.2053,112.7353,3
+96939,Stasiun Meteorologi Tuban,Jawa Timur,Kab. Tuban,-6.8229,111.99177,5
+96943,Stasiun Klimatologi Jawa Timur,Jawa Timur,Kab. Malang,-7.9008,112.5979,590
+96945,Stasiun Geofisika Pasuruan,Jawa Timur,Kab. Pasuruan,-7.70456,112.63533,832
+96949,Stasiun Geofisika Malang,Jawa Timur,Kab. Malang,-8.15,112.45,285
+96973,Stasiun Meteorologi Trunojoyo,Jawa Timur,Kab. Sumenep,-7.03976,113.914,3
+96975,Stasiun Geofisika Nganjuk,Jawa Timur,Kab. Nganjuk,-7.73486,111.76682,723
+96987,Stasiun Meteorologi Banyuwangi,Jawa Timur,Kab. Banyuwangi,-8.215,114.3553,52
+97008,Stasiun Meteorologi Naha,Sulawesi Utara,Kab. Kepulauan Sangihe,3.68594,125.52881,6
+97010,Stasiun Geofisika Manado,Sulawesi Utara,Kota Manado,1.4434,124.8389,204
+97012,Stasiun Klimatologi Sulawesi Utara,Sulawesi Utara,Kab. Minahasa Utara,1.54585,124.9233,84
+97014,Stasiun Meteorologi Sam Ratulangi,Sulawesi Utara,Kota Manado,1.54575,124.9234,80
+97016,Stasiun Meteorologi Maritim Bitung,Sulawesi Utara,Kota Bitung,1.4431,125.1797,4
+97028,Stasiun Meteorologi Sultan Bantilan,Sulawesi Tengah,Kab. Toli Toli,1.12114,120.79433,8
+97048,Stasiun Meteorologi Djalaluddin,Gorontalo,Kab. Gorontalo,0.6385,122.8525,33
+97052,Stasiun Klimatologi Gorontalo,Gorontalo,Kab. Bone Bolango,0.556,123.14,15
+97072,Stasiun Meteorologi Mutiara Sis-Al Jufri,Sulawesi Tengah,Kota Palu,-0.91589,119.90554,79
+97074,Stasiun Geofisika Palu,Sulawesi Tengah,Kota Palu,-0.90536,119.8367,75
+97086,Stasiun Meteorologi Syukuran Aminudin Amir,Sulawesi Tengah,Kab. Banggai,-1.04064,122.771,19
+97094,Stasiun Pemantau Atmosfer Global Lore Lindu Bariri,Sulawesi Tengah,Kota Palu,-1.6499,120.183,1369
+97096,Stasiun Meteorologi Kasiguncu,Sulawesi Tengah,Kab. Poso,-1.42038,120.65701,10
+97116,Stasiun Meteorologi Tampa Padang Mamuju,Sulawesi Barat,Kab. Mamuju,-2.58939,119.02949,0
+97120,Pos Meteorologi Majene,Sulawesi Barat,Kab. Majene,-3.55074,118.98054,29
+97124,Stasiun Meteorologi Toraja,Sulawesi Selatan,Kab. Tana Toraja,-3.04524,119.81885,829
+97126,Stasiun Meteorologi Andi Jemma,Sulawesi Selatan,Kab. Luwu Utara,-2.55472,120.32422,43
+97142,Stasiun Meteorologi Sangia Ni Bandera,Sulawesi Tenggara,Kab. Kolaka,-4.18059,121.61077,14
+97144,Stasiun Meteorologi Maritim Kendari,Sulawesi Tenggara,Kota Kendari,-3.9701,122.5895,2
+97150,Stasiun Klimatologi Sulawesi Tenggara,Sulawesi Tenggara,Kab. Konawe Selatan,-4.056,122.449,30
+97180,Stasiun Meteorologi Sultan Hasanuddin,Sulawesi Selatan,Kab. Maros,-5.07,119.55,14
+97182,Stasiun Meteorologi Maritim Paotere,Sulawesi Selatan,Kota Makassar,-5.11375,119.41983,5
+97184,Stasiun Klimatologi Sulawesi Selatan,Sulawesi Selatan,Kab. Maros,-4.9308,119.572,13
+97186,Stasiun Geofisika Gowa,Sulawesi Selatan,Kab. Gowa,-5.218,119.47,22
+97192,Stasiun Meteorologi Beto Ambari,Sulawesi Tenggara,Kota Bau Bau,-5.47,122.62,233
+97230,Stasiun Meteorologi I Gusti Ngurah Rai,Bali,Kab. Badung,-8.75,115.17,4
+97232,Stasiun Geofisika Denpasar,Bali,Kota Denpasar,-8.67689,115.21,15
+97234,Pos Pengamatan Kahang-Kahang,Bali,Kab. Karangasem,-8.365,115.61083,155
+97236,Stasiun Klimatologi Bali,Bali,Kab. Jembrana,-8.341,114.6176,25
+97240,Stasiun Meteorologi Zainuddin Abdul Madjid,Nusa Tenggara Barat,Kota Mataram,-8.75277,116.24982,92
+97242,Stasiun Klimatologi Nusa Tenggara Barat,Nusa Tenggara Barat,Kab. Lombok Barat,-8.63627,116.17094,55
+97247,Stasiun Geofisika Alor,Nusa Tenggara Timur,Kab. Alor,-8.1445,124.5903,0
+97260,Stasiun Meteorologi Sultan Muhammad Kaharuddin,Nusa Tenggara Barat,Kab. Sumbawa,-8.48845,117.41336,3
+97270,Stasiun Meteorologi Sultan Muhammad Salahuddin,Nusa Tenggara Barat,Kota Bima,-8.54279,118.6928,5
+97282,Stasiun Meteorologi Komodo,Nusa Tenggara Timur,Kab. Manggarai Barat,-8.48673,119.88683,67
+97284,Stasiun Meteorologi Frans Sales Lega,Nusa Tenggara Timur,Kab. Manggarai,-8.63,120.45,1070
+97300,Stasiun Meteorologi Fransiskus Xaverius Seda,Nusa Tenggara Timur,Kab. Sikka,-8.63577,122.23752,28
+97310,Stasiun Meteorologi Gewayantana,Nusa Tenggara Timur,Kab. Flores Timur,-8.2752,122.9986,9
+97320,Stasiun Meteorologi Mali,Nusa Tenggara Timur,Kab. Alor,-8.13471,124.59,10
+97340,Stasiun Meteorologi Umbu Mehang Kunda,Nusa Tenggara Timur,Kab. Sumba Timur,-9.66944,120.29972,10
+97342,Stasiun Geofisika Sumba Timur,Nusa Tenggara Timur,Kab. Sumba Timur,-9.66917,120.29776,13
+97370,Stasiun Meteorologi Maritim Tenau,Nusa Tenggara Timur,Kota Kupang,-10.18861,123.52906,23
+97372,Stasiun Meteorologi Eltari,Nusa Tenggara Timur,Kota Kupang,-10.1678,123.67039,102
+97374,Stasiun Klimatologi Nusa Tenggara Timur,Nusa Tenggara Timur,Kota Kupang,-10.13861,123.66722,19
+97376,Stasiun Geofisika Kupang,Nusa Tenggara Timur,Kota Kupang,-10.16453,123.58933,56
+97378,Stasiun Meteorologi David Constatijn Saudale,Nusa Tenggara Timur,Kab. Rote Ndao,-10.76662,123.07395,141
+97380,Stasiun Meteorologi Tardamu,Nusa Tenggara Timur,Kab. Kupang,-10.5,121.83,15
+97406,Stasiun Meteorologi Gamar Malamo,Maluku Utara,Kab. Halmahera Utara,1.84092,127.7905,130
+97430,Stasiun Meteorologi Sultan Babullah,Maluku Utara,Kota Ternate,0.8333,127.38,33
+97432,Stasiun Geofisika Ternate,Maluku Utara,Kota Ternate,0.7719,127.3667,49
+97460,Stasiun Meteorologi Oesman Sadik,Maluku Utara,Kab. Halmahera Selatan,-0.63784,127.5,14
+97500,Stasiun Pemantau Atmosfer Global Puncak Vihara Klademak,Papua Barat,Kota Sorong,-0.981,131.301,10
+97502,Stasiun Meteorologi Domine Eduard Osok,Papua Barat,Kota Sorong,-0.89118,131.28575,0
+97504,Stasiun Geofisika Sorong,Papua Barat,Kota Sorong,-0.86,131.26,64
+97530,Stasiun Meteorologi Rendani,Papua Barat,Kab. Manokwari,-0.89227,134.05041,3
+97560,Stasiun Meteorologi Frans Kaisiepo,Papua,Kab. Biak Numfor,-1.19069,136.10361,3
+97570,Stasiun Meteorologi Sudjarwo Tjondro Negoro,Papua,Kab. Kepulauan Yapen,-1.8754,136.23994,3
+97580,Stasiun Meteorologi Mararena,Papua,Kab. Sarmi,-1.85,138.75,3
+97600,Stasiun Meteorologi Emalamo,Maluku Utara,Kab. Kepulauan Sula,-2.05,126.0,2
+97630,Stasiun Meteorologi Torea,Papua Barat,Kab. Fak Fak,-2.91938,132.26496,126
+97682,Stasiun Meteorologi Nabire,Papua,Kab. Nabire,-3.39712,135.39171,3
+97686,Stasiun Meteorologi Wamena Jaya Wijaya,Papua,Kab. Jayawijaya,-4.08861,138.94639,1653
+97690,Stasiun Meteorologi Sentani,Papua,Kab. Jayapura,-2.57,140.48,96
+97692,Stasiun Klimatologi Jayapura,Papua,Kab. Jayapura,-2.59231,140.16792,70
+97694,Stasiun Klimatologi Papua Barat,Papua Barat,Kab. Manokwari,-1.47,134.19,20
+97696,Stasiun Geofisika Jayapura,Papua,Kota Jayapura,-2.51461,140.70431,400
+97698,Stasiun Meteorologi Dok II Jayapura,Papua,Kota Jayapura,-2.53,140.72,3
+97700,Stasiun Meteorologi Namlea,Maluku,Kab. Buru,-3.25,127.08,10
+97722,Stasiun Meteorologi Amahai,Maluku,Kab. Maluku Tengah,-3.3464,128.9284,10
+97724,Stasiun Meteorologi Pattimura,Maluku,Kota Ambon,-3.7114,128.0957,14
+97726,Stasiun Klimatologi Maluku,Maluku,Kab. Seram Bagian Barat,-3.25,128.4,5
+97728,Stasiun Geofisika Ambon,Maluku,Kota Ambon,-3.69,128.19,83
+97730,Stasiun Meteorologi Maritim Ambon,Maluku,Kota Ambon,-3.79053,128.10075,3
+97748,Stasiun Meteorologi Kuffar,Maluku,Kab. Seram Bagian Timur,-3.8813,130.88,2
+97760,Stasiun Meteorologi Utarom,Papua Barat,Kab. Kaimana,-3.64333,133.69694,10
+97780,Stasiun Meteorologi Enarotali,Papua,Kab. Paniai,-3.92688,136.38,1650
+97790,Stasiun Meteorologi Bandaneira,Maluku,Kab. Maluku Tengah,-4.52338,129.9043,15
+97796,Stasiun Meteorologi Mozez Kilangin,Papua,Kab. Mimika,-4.53006,136.89348,30
+97810,Stasiun Meteorologi Karel Sadsuitubun,Maluku,Kab. Maluku Tenggara,-5.6637,132.7362,10
+97812,Stasiun Geofisika Nabire,Papua,Kab. Nabire,-3.46,135.473,4
+97876,Stasiun Meteorologi Tanah Merah,Papua,Kab. Boven Digoel,-6.1,140.31,97
+97900,Stasiun Meteorologi Mathilda Batlayeri,Maluku,Kab. Kep. Tanimbar,-7.98,131.3,24
+97902,Stasiun Geofisika Maluku Tenggara Barat,Maluku,Kab. Kep. Tanimbar,-7.98,131.3,26
+97978,Stasiun Klimatologi Merauke,Papua,Kab. Merauke,-8.387,140.517,5
+97980,Stasiun Meteorologi Mopah,Papua,Kab. Merauke,-8.52019,140.41568,0
+99201,STMKG,Banten,Kota Tangerang,-6.253,106.996,62
+99921,Pos Meteorologi Liwa Lampung,Lampung,Kab. Lampung Barat,-5.01732,104.05868,938
+99932,Stasiun Geofisika Mataram,Nusa Tenggara Barat,Kota Mataram,-8.56419,116.09987,16
+99941,Stasiun Geofisika Kendari,Sulawesi Tenggara,Kota Kendari,-3.96,122.62,10
+99992,Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah II,Banten,Kota Tangerang Selatan,-6.30253,106.75636,41
+99994,Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah IV,Sulawesi Selatan,Kota Makassar,-5.14283,119.45227,72
+99995,Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah V,Papua,Kota Jayapura,-2.57522,140.68624,0

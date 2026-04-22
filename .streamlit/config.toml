@@ -1,0 +1,32 @@
+[theme]
+# Warna biru tua khas BMKG
+primaryColor = "#003366"
+
+# Warna latar belakang utama (putih bersih)
+backgroundColor = "#FFFFFF"
+
+# Warna latar belakang sidebar dan widget
+secondaryBackgroundColor = "#F0F2F6"
+
+# Warna teks utama
+textColor = "#262730"
+
+# Jenis font (serif memberikan kesan laporan ilmiah/jurnal)
+font = "serif"
+
+[server]
+# Menghilangkan pesan "CORS" jika nanti diakses lewat jaringan kantor
+enableCORS = false
+enableXsrfProtection = false
+
+# Mengatur kapasitas upload file jika diperlukan (dalam MB)
+maxUploadSize = 50
+
+[client]
+# Menghilangkan menu "Deploy" di kanan atas agar lebih bersih
+showErrorDetails = false
+toolbarMode = "minimal"
+
+[browser]
+# Mengatur judul tab browser secara otomatis
+gatherUsageStats = false

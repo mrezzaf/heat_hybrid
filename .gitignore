@@ -1,0 +1,14 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Data raw (NC tidak boleh masuk git)
+*.nc
+D:/*
+
+# Local env
+venv/
+.env
+
+# MacOS junk
+.DS_Store
