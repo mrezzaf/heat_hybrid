@@ -160,12 +160,12 @@ def plot_yearly_boxplot(df, index_name):
         x=df['year'],
         y=df[index_name],
         name=index_name,
-        marker_color='#2c3e50', # Warna Midnight Blue agar terlihat formal
+        marker_color='#2c3e50',
         boxpoints='outliers',
         line=dict(width=1)
     ))
 
-    # Tambahkan garis tren median (Opsional, agar terlihat apakah median merayap naik)
+    # Tambahkan garis tren median
     yearly_median = df.groupby('year')[index_name].median()
     fig.add_trace(go.Scatter(
         x=yearly_median.index,
@@ -176,13 +176,20 @@ def plot_yearly_boxplot(df, index_name):
         hoverinfo='skip'
     ))
 
+    # --- BAGIAN YANG DIUBAH ---
     fig.update_layout(
-        title=dict(text=f"Variabilitas Tahunan & Pergeseran Distribusi {index_name} (1981-2024)", font=dict(size=18)),
+        title=dict(text=f"Variabilitas Tahunan {index_name} (1981-2024)", font=dict(size=18)),
         xaxis_title="Tahun",
         yaxis_title="Nilai Indeks",
         template="plotly_white",
         showlegend=False,
-        xaxis=dict(tickangle=45)
+        xaxis=dict(
+            tickmode='linear', # Memastikan label mengikuti interval linear
+            tick0=1981,        # Tahun awal
+            dtick=1,           # Loncat setiap 2 tahun (ubah jadi 1 jika ingin tiap tahun)
+            tickangle=-90,     # Membuat label tegak lurus (vertikal)
+            type='category'    # Menganggap tahun sebagai kategori agar boxplot tidak renggang
+        )
     )
     
     return fig

@@ -31,7 +31,7 @@ selected_st_name = st.sidebar.selectbox("Pilih Stasiun", st_list['NAME'])
 wmo_id = st_list[st_list['NAME'] == selected_st_name]['WMO_ID'].values[0]
 
 indices = ["HI", "THI", "NET", "AT", "WBGT", "UTCI", "ICHI"]
-selected_idx = st.sidebar.selectbox("Indeks Utama", indices, index=6)
+selected_idx = st.sidebar.selectbox("Pilih Indeks Panas", indices, index=6)
 
 cfg = CONFIG.get(selected_idx.lower(), {'bins': [27, 32, 41], 'min': 20, 'max': 50, 'unit': 'unit'})
 
